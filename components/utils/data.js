@@ -1,6 +1,6 @@
 export const firstLetter = "W";
 export const companyName = "eddingmaster Events";
-export const shortName = "W-MASTERS";
+export const shortName = "WEDMASTERS";
 export const phoneNumber = "+2349022954809";
 export const companyAddress = "Lagos NG, 86 Ajayi Rd, Ogba, Ikeja 100218";
 // images down here
